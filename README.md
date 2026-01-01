@@ -4,5 +4,3 @@ This is a game imitation of a cellular automaton devised from the mathematician 
 There's two implementation of this project. One is in distribution style and the other is in parallel style.
 
 Both of them have their own readme file for simple usage and instruction. Their own liccenses are included as well.
-
-There also a report presenting the effect of the two implementation. Some volume graphs are also included to show the diffence between distribution and parallle.
