@@ -1,6 +1,5 @@
-# CSA Coursework: Game of Life skeleton (Go)
+#Game of Life skeleton (Go)
 
-All documentation is available [here](https://uob-csa.github.io/gol-docs/)
 
 ## Distributed Deployment Flow
 
