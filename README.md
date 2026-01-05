@@ -5,6 +5,8 @@ A Go implementation of Conway’s Game of Life, developed as part of a universit
 
 This project simulates the evolution of the Game of Life on a 2D image matrix and includes a test suite and visualiser based on limited provided skeleton code.
 
+Due to the consideration of information protection, the task instruction will not be demonstrated here according to university policy.
+
 ---
 
 ## Overview
