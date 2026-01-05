@@ -46,3 +46,7 @@ Your implementation processes these rules to evolve the state of the game over a
 There's two implementation of this project. One is in distribution style and the other is in parallel style.
 
 Both of them have their own readme file for simple usage and instruction. Their own licenses are included as well.
+
+The parallel part can be runed in any computer with go installed.
+
+The availability of the distribution part can be verified with the assist of AWS nodes.
